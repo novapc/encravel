@@ -1,0 +1,7 @@
+.git/
+src/
+.gitignore
+.gitlab-ci.yml
+.npmignore
+tsconfig.json
+jest.config.js
