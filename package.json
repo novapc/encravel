@@ -1,7 +1,7 @@
 {
   "name": "@novapc/encravel",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Javascript cryptography package based on Illuminate/Encryption from Laravel",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
